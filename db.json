@@ -6,6 +6,7 @@
         "task": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       },
       {
@@ -14,6 +15,7 @@
         "task": "Cras eu dolor sodales, rhoncus est molestie, rutrum purus",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       },
       {
@@ -22,6 +24,7 @@
         "task": "Vivamus tempus elit sit amet dui consectetur placerat.",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       },
       {
@@ -30,6 +33,7 @@
         "task": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       },
       {
@@ -38,6 +42,7 @@
         "task": "Cras eu dolor sodales, rhoncus est molestie, rutrum purus",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       },
       {
@@ -46,6 +51,7 @@
         "task": "Vivamus tempus elit sit amet dui consectetur placerat.",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       },
       {
@@ -54,6 +60,7 @@
         "task": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       },
       {
@@ -62,6 +69,7 @@
         "task": "Cras eu dolor sodales, rhoncus est molestie, rutrum purus",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       },
       {
@@ -70,6 +78,7 @@
         "task": "Vivamus tempus elit sit amet dui consectetur placerat.",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       },
       {
@@ -78,6 +87,7 @@
         "task": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       },
       {
@@ -86,6 +96,7 @@
         "task": "Cras eu dolor sodales, rhoncus est molestie, rutrum purus",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       },
       {
@@ -94,6 +105,7 @@
         "task": "Vivamus tempus elit sit amet dui consectetur placerat.",
         "description": "testing",
         "time":"time",
+        "repeat":"D",
         "category": "12345456789"
       }
     ]
